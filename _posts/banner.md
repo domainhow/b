@@ -1,12 +1,11 @@
 ---
-title: Post with Header Image
-tags: TeXt
+title: Service
 article_header:
   type: cover
   image:
     src: /background.jpg
 ---
 
-A Post with Header Image, See [Page layout](https://tianqi.name/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
+See [Page layout](https://h.how/service.html) for more details.
 
 <!--more-->
