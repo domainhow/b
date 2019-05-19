@@ -1,1 +1,1 @@
-# [b.hoow](https://b.how)
+# [b.how](https://b.how)
